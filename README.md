@@ -1,2 +1,2 @@
-# vladivostok
+# Vladivostok
 BeerPHP: Vladivostok, Russia
